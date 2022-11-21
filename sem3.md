@@ -33,8 +33,12 @@
 
 * ссылки
 
+![[ура зима](zima.jpg)](https://www.hobobo.ru/assets/uploads/2020/02/Zagadki-pro-zimu.jpg)
+
 * работа с таблицами
 
 * цитаты
 
 _**заключение**_
+
+ 
